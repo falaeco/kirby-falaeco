@@ -1,0 +1,25 @@
+.menu {
+  font-family: "acumin-pro-extra-condensed", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  text-align: center;
+  &__item {
+    display: inline-block;
+    background-color: #FFFFFF;
+    padding: 0.25em;
+    & a {
+      border-bottom: 0;
+    }
+    &.is-active a {
+      border-bottom: 2px solid #F1D4F0;
+    }
+  }
+}
+
+@media all and (min-width: 38.25em) {
+  .menu {
+    text-align: right;
+  }
+}

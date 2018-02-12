@@ -1,0 +1,26 @@
+title: Projects
+
+files: false
+
+pages:
+  template: project
+
+options:
+  template: false
+  status: false
+  url: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/4
+
+  text:
+    label: Text
+    type:  textarea

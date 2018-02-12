@@ -1,0 +1,33 @@
+Title: EX: INGRESS
+
+----
+
+Text: 
+
+By the same developer of Pokemon GO, Ingress is a location-based, augmented reality game where two opposing factions, the Enlightened and the Resistance battle to control
+portals scattered throughout the world, mostly at famous landmark and points of interest.
+
+## Plot
+Scientists at the CERN, Geneva, where Higgs boson was discovered, unearthed a new kind of exotic matter (called XM for short). Found in high concentration around places of cultural importance, it is believed that XM was introduced by some alien race, called the “Shapers”. While the Enlightened believe that XM could be use to transcend humanity to a higher state, the Resistance is distrustful of that energy and fight to preserve humanity’s freedom.
+
+## Gameplay
+Players must choose a faction at the beginning of the game and then try to move to portal’s location and claim them. Some portals may be more difficult to capture as players of the opposing faction can reinforce the defences of the portal that they own.  To become more powerful, players of the same faction must create control fields by capturing neighbouring portals. The larger the control fields, the more the faction scores.
+
+## Testing the game
+I’d given the game a try, aligning with the enlightened. Here are some screenshots of my experience:
+
+(image: sc1.png caption: Walking around makes you collect the XM energy, represented by the small nodes on the ground. I am walking toward a resonator which is suppose to help capturing portals)
+
+(image: sc2.png caption: Approaching the empty resonator 😀.)
+
+(image: sc3.png)
+
+(image: sc4.png caption: an enemy portal at École Saint-Jean Baptiste. I am unfortunately too low level to try to attack it or capture it 😞.)
+
+---
+
+Coverimage: augmented-reality-ingress.jpg
+
+----
+
+Coverimage: augmented-reality-ingress.jpg

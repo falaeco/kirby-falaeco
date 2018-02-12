@@ -1,0 +1,14 @@
+{
+  "name": "kirby-falaeco",
+  "version": "1.0.0",
+  "description": "Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/css/sass/main.scss assets/css/mysassstyle.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

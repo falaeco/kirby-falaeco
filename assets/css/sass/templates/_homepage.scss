@@ -1,0 +1,41 @@
+.hero{
+  background-image: url('../images/hero-bg.jpeg');
+  background-size: cover;
+  background-position: right;
+  position: relative;
+  width:100%;
+  height: 38vh;
+  min-height: 20em;
+}
+
+.hero-text{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#menu-home{
+  position: relative;
+  top: 2rem; 
+}
+
+.projects-section {
+  background: #eafded;
+  margin-top: 3rem;
+  padding-top: 2.25rem;
+  padding-bottom: .75rem;
+}
+
+.projects-section-more {
+  text-align: center;
+}
+
+@media all and (min-width: 38.25em){
+
+  .hero-text{
+    left: 7vw;
+    transform: translateY(-50%);
+  }
+}

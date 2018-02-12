@@ -1,0 +1,104 @@
+/**
+ * GENERAL TYPOGRAPHY
+ * Override this by assigning classes
+**/
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, figure, pre {
+  /* Reset font-sizes and normalize margins */
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0 0 1.5rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: "acumin-pro-semi-condensed",Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-style: normal;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.25;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 2.2rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.25em;
+  line-height: 1.2;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+/* Links */
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 2px solid $pink-main;
+
+  &:hover, &:focus, &:active{
+    color: $pink-secondary;
+  }
+}
+
+/* Misc */
+hr {
+  font-size: 1.25rem;
+  font-weight: 500;
+  height: 1.5rem;
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  color: $pink-tertiary;
+
+  &::before {
+    content: "";
+    position: relative;
+    display: block;
+    background: currentColor;
+    height: 2px;
+    top: calc(50% + 1px);
+  }
+
+  &::after{
+    content: "× × ×";
+    background: #fffff8;
+    position: relative;
+    padding: 0 .25rem;
+    top: -.25rem;
+  }
+}
+
+h1 + hr,
+.intro + hr {
+  /* Shift a <hr> right after an `.intro`
+     or <h1> block one line up. */
+  margin-top: -1.5rem;
+}
+
+i, em {
+  font-style: italic;
+}
+
+b, strong {
+  font-weight: 700;
+}
+
+mark {
+  padding: .1em .05em;
+  margin: -.1em 0;
+  color: $dark-blue-main;
+  background: $white-grey;
+}

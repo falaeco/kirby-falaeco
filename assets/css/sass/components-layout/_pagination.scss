@@ -1,0 +1,73 @@
+.pagination {
+  margin-bottom: 1.5rem;
+
+  &__item{
+    position: relative;
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 50%;
+    background: #efeeed;
+    color: #2b286e;
+    border-bottom: 0;
+
+    &:hover, &:focus {
+      background: #2b286e;
+      color: #eecfe3;
+    }
+
+    &:active{
+      background: #4509be;
+    }
+
+    &.left{
+      float: left;
+    }
+
+    &.right{
+      float: right;
+    }
+
+    svg{
+      position: relative;
+      top: 50%;
+      display: block;
+      margin: -6px auto 0;
+      width: 24px;
+      height: 12px;
+    }
+
+    path{
+      fill: currentColor;
+    }
+
+    &.is-inactive{
+      color: #e4e3e6;
+      border: 2px solid currentColor;
+      background: transparent;
+    }
+  }
+}
+
+@media all and (min-width: 75em) {
+  .pagination-item {
+    position: fixed;
+    top: 50%;
+    margin-top: -.875rem;
+  }
+  .pagination-item.left {
+    float: none;
+    left: 2.25rem;
+  }
+  .pagination-item.right {
+    float: none;
+    right: 2.25rem;
+  }
+}
+
+@media all and (pointer: coarse) {
+  .pagination-item {
+    /* On touch-devices we increase prev/next buttons */
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+}

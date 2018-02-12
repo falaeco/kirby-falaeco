@@ -1,0 +1,13 @@
+Title: Portfolio
+
+----
+
+Intro: Soon, I will fill this sections with all my previous work.
+
+----
+
+Text: Just be patient, it will be there soon. I promise :)
+
+----
+
+Coverimage: banner.jpg

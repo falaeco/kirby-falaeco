@@ -1,0 +1,14 @@
+Title: EX: Data Aesthetics
+
+----
+
+Text: 
+
+The first time I was exposed to data aesthetics goes back to 2016, when spotify insight release 10 different pieces of music data art. I was amazed to see how we can could visualize and make sense from a huge amount of data while keeping a sense of beauty and aesthetics. Here is one of my favourite piece.
+
+### _Gradients_ by Peter Margaritoff
+Web developer and artist Peter Margaritoff collected the average colour of the album covers of the top 2,000 songs and organized them in 14 different rows that represents the different genres of music. The rows were then sorted by hues and color to create an interesting color composition for each genre. From top to bottom: All, Alternative Rock, Classical, Country, Folk, Hip-Hop, House, Indie Rock, Jazz, Latin, Metal, Pop, Rock.
+
+----
+
+Coverimage: gradients_peter.png

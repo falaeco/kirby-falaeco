@@ -1,0 +1,68 @@
+.showcase {
+  position: relative;
+
+  &__item{
+    list-style: none;
+    margin-bottom: .75rem;
+    position: relative;  
+  }
+
+  &__link{
+    display: block;
+    position: relative;
+    z-index: 0;
+    border-bottom: 0;
+  }
+
+  &__title{
+    font-family: "acumin-pro-extra-condensed",sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 0 1.5rem;
+    top: 50%;
+  }
+
+  &__image{
+    display: block;
+  }
+
+  &__link:hover &__caption,
+  &__link:focus &__caption{
+    opacity: 1;
+  }
+}
+
+@media all and (min-width: 38em) {
+  .showcase__item {
+    width: 33.33%;
+  }
+  .showcase__item:nth-last-child(3n+2):first-child,
+  .showcase__item:nth-last-child(3n+2):first-child + .showcase__item, .showcase__item:nth-last-child(3n+1):first-child,
+  .showcase__item:nth-last-child(3n+1):first-child ~ .showcase__item:nth-child(-n+4) {
+    /* x = items
+       When x % 3 = 2, select first and second item:
+       When x % 3 = 1, select first 4 items: */
+    width: 50%;
+  }
+}
+
+@media (any-hover: none) {
+  .showcase__caption {
+    /* The media query, enclosing these rules matches only
+       touch-screen devices that do not support hover due
+       to the lack of a pointing device like a mouse.
+       It does not work in all mobile browsers, but
+       progressively enhances the experience on supported
+       devices. Tested in Safari (iOS) 9.3 */
+    opacity: 1.0;
+    /* Reset will-change property to keep it from eating
+       up unneccessary resources on touch-only devices */
+    will-change: auto;
+  }
+  .showcase__title {
+    font-size: .85em;
+  }
+}

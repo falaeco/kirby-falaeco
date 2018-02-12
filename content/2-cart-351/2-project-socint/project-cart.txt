@@ -1,0 +1,23 @@
+Title: The Social Interface
+
+----
+
+Year: 2013
+
+----
+
+Text:
+
+On Instagram, we strive to show to the world and our friends how exciting, fulfilling and perhaps, how “perfect” our lives can be. Our Instagram account is simply an artificial projection of our best self, polished with some fancy filters and photoshop.
+
+But what if your Instagram pictures was not about trying to show the perfect life we like to think we’re living? What if instead, all the pictures you post, were a contribution to a bigger creative project built in community.
+
+With this project, I wanted to shift the purpose of Instagram, which is more egocentric in nature, and make the platform more creative-driven. Your pictures aren’t the centre of the platform anymore and the amount of likes on your pictures doesn’t matter. Instead, every picture you post is added to a big database where anyone can use them to create stories and albums, in the format of a camera film. These films made by users can take different forms: they can served as visuals for short-stories, as a medium for a collaborative travel journal, or simply be a sequence of visually related pictures where the users is left with their own interpretation.
+
+The platform would be a great opportunity for people to try to think outside the box as they collect and create films made from a large pool of pictures of all kind feed by the community. It would encourage people to collaborate in creative project and connect in a radically different way than most existing social media.
+
+## (link: cart-351/project-socint/filmgram/homepage.html text: Filmgram)
+
+----
+
+Coverimage: banner.jpg

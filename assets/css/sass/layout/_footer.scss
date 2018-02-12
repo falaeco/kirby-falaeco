@@ -1,0 +1,53 @@
+@keyframes pulsing-heart {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.2);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 1.5rem 0;
+  text-align: center;
+  font-size: .875rem;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
+
+.footer a {
+  border-bottom: 0;
+}
+
+.footer .heart {
+  /* The heart character of Arial Unicode MS looks just
+     surprisingly nice … */
+  font-family: "Arial Unicode MS", Arial, sans-serif;
+  display: inline-block;
+}
+
+.footer-madewithkirby a:hover .heart {
+  animation: pulsing-heart .6s linear infinite;
+}
+
+@media all and (min-width: 48em) {
+  .footer-copyright, .footer-madewithkirby {
+    display: inline;
+  }
+  .footer-copyright::after {
+    content: "—";
+    margin: 0 .2em;
+    color: #F1D4F0;
+  }
+}

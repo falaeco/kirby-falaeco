@@ -1,0 +1,61 @@
+.header {
+  padding-top: 1.5rem;
+}
+
+.branding {
+  text-align: center;
+  font-family: "acumin-pro-extra-condensed",Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 1.5rem;
+  line-height: 1.95rem;
+  margin-bottom: .45rem;
+  text-transform: none;
+
+  &__highlight{
+    border-bottom: 0;
+    padding: 0.10em 0.25em;
+    &--white{
+      background-color: $white;
+    }
+    &--black{
+      color: $white;
+      background-color: $black;
+    }
+  }
+}
+
+@media all and (min-width: 38.25em) {
+  .header {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  .branding {
+    line-height: 3rem;
+    margin-bottom: 0;
+    white-space: nowrap;
+    text-align: left;
+  }
+  .branding,
+  .navigation {
+    vertical-align: baseline;
+    width: 50%;
+  }
+}
+
+.page-title {
+	font-family: "acumin-pro-condensed",sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  margin-top: 1.5em;
+  
+  &__highlight{
+    background-color: white;
+    padding: 0 1em;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    &--white{
+      background-color: white;
+    }
+  }
+}

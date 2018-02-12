@@ -1,0 +1,21 @@
+.btn {
+  display: inline-block;
+  border: 2px solid;
+  padding: .6em .75em;
+  white-space: nowrap;
+  font-size: .75em;
+  font-family: "acumin-pro-semi-condensed", Helvetica, Arial, sans-serif;
+  line-height: 1;
+  font-weight: 400;
+
+  &:hover, &:focus{
+    background: #2b286e;
+    border-color: #2b286e;
+    color: #eecfe3;
+  }
+  
+  &:active{
+    background: #7550a0;
+    border-color: #7550a0;
+  }
+}

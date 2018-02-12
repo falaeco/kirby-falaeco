@@ -1,0 +1,55 @@
+.grid {
+  font-size: 0;
+
+  &.gutter-1{
+  /* We don’t use the shorthand attribute `margin: …` here
+  to make vertical margin easily overridable by other
+  styles with a lower specifity. */
+  margin-left: -.375rem;
+  margin-right: -.375rem;
+
+    & .column{
+      padding-left: .375rem;
+      padding-right: .375rem;
+    }
+  }
+}
+
+.column {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  font-size: 1rem;
+  vertical-align: top;
+}
+
+.wrap {
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding-left: .75rem;
+  padding-right: .75rem;
+  max-width: 36rem;
+
+  &.wide{
+    max-width: 48rem;
+  }
+}
+
+@media all and (min-width: 31.5em) {
+  .wrap:not(.wide) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media all and (min-width: 38.25em) {
+  .wrap {
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+    &.wide{
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+}

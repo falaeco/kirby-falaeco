@@ -1,0 +1,17 @@
+Title: EVARF - A locative game
+
+----
+
+Text:
+
+_collaborator: Hugo Spitz, Vito Lapolla_
+
+EVARF is an augmented reality game where students, profs and visitors incarnate the role of farmers. Navigating the EV building, players must find the best environment to grow their plants, make exchanges at the marketplace and complete missions. Classrooms become farmland and each floor of the building have their own climate that is more suitable to certain plants. Certain plants can better resist to frost but hot temperature makes them vulnerable while some other plants must be in humid and hot environment to flourish.
+
+Plants need occasional watering. To water their plantation, players must fetch water to water-wells which are spread out in the building. Not all plants requires the same care, thus player who doesn’t visit the building as frequently can choose crops that require less attention. Once a plant is ready to be harvest, players can take their fruits to markets, where they can exchange their crops for coins and interact with the other players. The garage also offer some tools and equipments to boost the production of their farm. The game can be played solo or in community with up to 5 other players.
+
+##(link: https://xd.adobe.com/view/de936fbb-6760-4f96-99b1-6cd335d82cc0/ text: demonstration)
+
+----
+
+Coverimage: Hydro-Flora-.jpg

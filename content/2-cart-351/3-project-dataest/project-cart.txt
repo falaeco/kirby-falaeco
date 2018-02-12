@@ -1,0 +1,22 @@
+Title: Data Aesthetics
+
+----
+
+Intro: How can you represent visually the complexity of your musical taste? What parameter should be taken in consideration. What medium would be the most suitable to achieve this goal? In this project, I explore different ways how I can represent my musical taste in a navigable 3D map.
+
+----
+
+Text:
+
+In 2014, Spotify acquired one of the most prolific music intelligence platform: the echo nest.  This acquisition allowed this popular streaming service to better understand how it can suggest new music content to users based on their listening habit. Further more, Spotify recently provided web and app developers APIs that could retrieve easily the characteristics of each individual songs of one user’s playlist and also provide some useful information about one’s user listening habit, such as most listened artists and songs in three different time period (1 month, 6 month and years).
+
+With these information, I had the idea to try and map my musical taste given 5 different data sets: Energy, Danceability, Acousticness, Valence and Play. Energy is how loud, fast and energetic a song is. Danceability score is determined by the regularity and the structure of the song. Acousticness is defined by the confidence that a song is played by acoustic, real instrument, as opposed to digitalized, non-natural instrument. Valence is linked to the mood of a song: moody-unsettling songs will score lower and happy, upbeat songs will score higher. Play represents the amount of time I have listened to the track, and is divided in 15 different ranking.
+
+I mapped these 5 characteristics to what seems the most logical, Energy, Danceability and acoustics are represented by the three axis x, y and z. Valence is map to the colour - from blue to yellow. Play is map to the scale of each bubbles. Further more, all the genres have their own category and can be filtered. It is interesting to see how the different genre cater in certain parts of the graph and how the different songs relates to each other.
+
+
+## (link: cart-351/project-dataest/data.html text: data)
+
+----
+
+Coverimage: banner.jpg

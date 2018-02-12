@@ -1,0 +1,19 @@
+Title: Net Art Redux
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+The internet artist duo Joan Heemskerk and Dirk Paesmans, better known by their collective name Jodi, greatly contributed to the emergence of the net art movement in the early days of the internet with jodi.org. Subverting the conventions of the internet, which was more commercially-oriented at the time, the pair used highly sophisticated html code to create nonsensical, glitch-looking interfaces, sowing mistrust, confusion and wonder. Navigating through the website is a puzzling task: most of the links are hidden in the visually packed layout of the different pages, and more often than not there is no way to know where it’s going to take you. Furthermore, the duo used clever techniques to hide some of their arts in the source code of their website, which the access is not so conspicuous for most internet user. Our team was fascinated by several of these concepts brought by the collective which is why we decided to create an homage site while including several alterations.
+
+To begin with, we created an imposing wall of ASCII characters, which we believe is a nice reminder of the original piece’s homepage. Although our homepage is not hiding some ASCII art in its source code, we had the idea of making the wall of an impressing length to pique the user’s curiosity and to make him/her slightly uncomfortable. The second pages land of a series of image. We wanted to use similar code hiding technique that would incite people to try to uncover the secrets hidden in the various elements of the site. One of the technique consisted of opening one of the image in a text editor software and inserting various ASCII art in the body of the text. Other techniques include message encryption into the spectrum of audio frequency and by image compression using Audition and Photoshop program. Some of the pictures links to different parts of the website which lead to some labyrinthine interfaces (cave, button) where the user is compelled to explore other hidden parts of the website. One of the picture, the duck, has some elegant ASCII art in its source code in homage to the atomic bomb plans that can be found in the source code of the original site’s homepage.
+
+As a final point, we wanted to bring the famous phrased coined by Marshall McLuhan “The medium is the message” to a different level. (link: http://vitolapolla.com/cart-351/a1/ text: Enjoy your visit)
+
+----
+
+Coverimage: banner.jpg

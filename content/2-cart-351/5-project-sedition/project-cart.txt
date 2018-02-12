@@ -1,0 +1,14 @@
+Title: EX: s[edition]
+
+----
+
+Text: Andres Nicolas Fischer is a specialist of particle movements and generative art, a form of art created with the use of autonomous system.  The artist from Munich cleverly make use of custom generative software to create movement and give life to his abstract pieces.
+
+(link: https://www.seditionart.com/andreas-nicolas-fischer/void-vi-c text: _VOID VI C_), is part of the sixth iteration of his popular serie _VOID_, where a software analyses a sequence of images, using the colour values to guide the colourful stroke on the ever changing canvas. The movement of these colourful particles is spellbinding and evoke wonder as the direction of the multicolour strokes, although seemingly random, are actually governed by a machine-run algorithm.
+
+(vimeo: https://vimeo.com/213661971 width: 100% height: 500)
+_Installation of _VOID VII_
+
+----
+
+Coverimage: ANF_V0ID_V_03.jpg

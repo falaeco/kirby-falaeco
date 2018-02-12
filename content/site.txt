@@ -1,0 +1,17 @@
+Title: falaeco.co
+
+----
+
+Author: Nicolas Prud’homme
+
+----
+
+Description: A website to showcase my work and share stuff that I love.
+
+----
+
+keywords: Nicolas, Prudhomme, falaeco, cart351, Concordia
+
+----
+
+Copyright: © 2017 Nicolas Prud'Homme
