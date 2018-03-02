@@ -113,22 +113,23 @@ p, ul, ol, figure, pre {
 h1, h2, h3 {
   font-family: "acumin-pro-semi-condensed",Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
   font-style: normal;
-  font-weight: 900;
   text-transform: uppercase; }
 
 h1 {
-  font-weight: 700;
+  font-weight: 900;
   font-size: 3rem;
   line-height: 1.25;
   text-align: center;
   margin-bottom: 3rem; }
 
 h2 {
+  font-weight: 800;
   font-size: 2rem;
   line-height: 2.2rem;
   text-align: center; }
 
 h3 {
+  font-weight: 800;
   font-size: 1.25em;
   line-height: 1.2; }
 
@@ -440,11 +441,30 @@ h1 + .intro {
 .showcase-flex__container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly; }
+  justify-content: space-evenly;
+  margin-top: 4.5rem; }
 
 .showcase-flex__item {
   padding: 30px;
   align-self: center; }
+
+.showcase-flex__thumbnail {
+  position: relative; }
+
+.showcase-flex__overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: .2s ease;
+  background-color: #af7eb8; }
+
+.showcase-flex__thumbnail:hover .showcase-flex__overlay {
+  opacity: 0.2; }
 
 .showcase-flex__title {
   text-align: end; }
@@ -499,6 +519,9 @@ h1 + .intro {
     -webkit-box-decoration-break: clone; }
     .page-title__highlight--white {
       background-color: white; }
+    .page-title__highlight--black {
+      background-color: #020202;
+      color: #fffff8; }
   .page-title__bottom {
     position: absolute;
     left: 50%;
@@ -522,6 +545,7 @@ h1 + .intro {
     .menu__item.is-active a {
       border-bottom: 2px solid #F1D4F0; }
     .menu__item--black {
+      padding: 0.25em 0.5em 0.5em;
       background-color: #020202; }
 
 @media all and (min-width: 38.25em) {

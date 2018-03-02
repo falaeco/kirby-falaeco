@@ -12,6 +12,7 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
   <?= css('assets/css/mysassstyle.css') ?>
+  <?= css('assets/plugins/embed/css/embed.css') ?>
 
 
 </head>

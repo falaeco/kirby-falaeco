@@ -15,12 +15,11 @@ p, ul, ol, figure, pre {
 h1, h2, h3 {
   font-family: "acumin-pro-semi-condensed",Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
   font-style: normal;
-  font-weight: 900;
   text-transform: uppercase;
 }
 
 h1 {
-  font-weight: 700;
+  font-weight: 900;
   font-size: 3rem;
   line-height: 1.25;
   text-align: center;
@@ -28,12 +27,14 @@ h1 {
 }
 
 h2 {
+  font-weight: 800;
   font-size: 2rem;
   line-height: 2.2rem;
   text-align: center;
 }
 
 h3 {
+  font-weight: 800;
   font-size: 1.25em;
   line-height: 1.2;
 }

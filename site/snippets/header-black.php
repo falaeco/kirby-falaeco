@@ -12,6 +12,7 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
   <?=css('assets/css/mysassstyle.css')?>
+  <?= css('assets/plugins/embed/css/embed.css') ?>
 
 
 </head>
@@ -19,7 +20,12 @@
 <body>
     <?php $image = $page->coverimage()->toFile();?>
     <?php if ($image): ?>
-        <header class="header header__long header__fade" role="banner"  style="background-image: url(<?php echo $image->url(); ?>); background-size: cover">
+        <header class="header header__long header__fade" role="banner"  
+      <?php if ($page->uid() == "portfolio" ): ?>
+        style="background: linear-gradient(to bottom, transparent 0%, transparent 70%, #020202 100%), url(<?php echo $image->url(); ?>); background-size: cover">
+      <?php else: ?>
+        style="background: url(<?php echo $image->url(); ?>); background-size: cover">
+      <?php endif ?>
     <?php else: ?>
 	    <header class="header" role="banner">
 	  <?php endif?>
@@ -31,16 +37,11 @@
                 <nav class="navigation column" role="navigation">
                   <ul class="menu">
                     <?php foreach($pages->visible() as $item): ?>
-                    <li class="menu__item<?= r($item->isOpen(), ' is-active') ?>">
+                    <li class="menu__item menu__item--black<?= r($item->isOpen(), ' is-active') ?>">
                       <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
                     </li>
                     <?php endforeach ?>
                   </ul>
                 </nav>
             </div>
-            <h1 class="page-title">
-            <span class="page-title__highlight page-title__highlight--white">
-                <?=$page->title()->html()?>
-            </span>
-            </h1>
         </header>

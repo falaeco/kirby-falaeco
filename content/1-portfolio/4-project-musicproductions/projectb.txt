@@ -1,0 +1,33 @@
+Title: Music Productions
+----
+
+Text: 
+
+# Music Productions
+
+I have always been interested in producing electronic music and exploring new and exciting sounds. My passion for music production drove me to focus on the sound engineering aspect of the Audiovisual program I completed in CEGEP. Through this, I was able to familiarize myself with the studio environment: learning the processes involved in recording and processing audio, and also how to operate professional audio software such as  Logic Pro X and Pro Tools. In my own time, I engross myself in producing music, often collaborating with my peers, to create forward-thinking musical pieces and experiment with sound manipulation. I also regularly DJ eclectic and experimental music from various genres of music which heavily influences the artistic direction of my tracks.
+
+## Memorial
+
+_Collaborator: Pierre Olivier Paquet_
+Students in their final year of audiovisual had the opportunity to work on an extracurricular project in the field of their choice (between audio, lighting and video). A friend and I made this piece to work on our composition, mixing and mastering skills with the help of our audio engineering teacher, who gave us tips and some guidelines on the arrangement and other technicalities. We used the professional studio setup at our school to aid us in the creation of our project coupled with some of our hardware equipment: a Maschine sequencer and a Roland Juno-G synthesizer.
+For the introduction, we wanted to set a haunting and dramatic tone, conveying sorrowful and nostalgic emotions. To achieve this, we made use of different reverb and delay effects using a combination of software (Logic Pro 7) and hardware (Lexicon Reverb) component. These audio effects helped to create a wide, endless space, causing elements of the track to feel distant to the listener.
+Following the introduction, we wanted to get into a more complex arrangement, with intricate drum patterns, bass-heavy sound effects and ominous synths. We used lots of percussive samples through the track to bring interesting variations. These ambient percussive sounds were drastically effected using modulation audio effects and utilized a wide stereo field. The synthesizers were manipulated to create a droning and warping sound as if they were surrounding the listener.
+The end was more improvised. As we played with the tempo, we found it was more interesting to slow things down. We wanted to create a relaxing end that would contrast with the fast and foreboding feel of the chorus and introduction. This ending gave a sense of self-reflection and hope which we believe is symbolic of a memorial.
+
+(embed: https://soundcloud.com/hope-despair/memorial)
+
+## Horizon
+
+While designing and manipulating a pad in the software synthesizer Massive, I was inspired to create a futuristic, otherworldly track. I decided to create a suspenseful introduction with rising synths and eerie sounds to convey the vast, daunting frontier of space. Throughout the piece, I slowly introduced sound effects and synths, as if the listener was beginning to travel further into the abyss. The fast-paced kick drum with the long reverb tails and the accompanying percussion provided a sense of progression along the journey. Through cutting these drums out near the end, it created the feeling of reaching the end of a voyage. The components of this project had to reflect the mystery and intrigue of space, so I decided to use more digital and unnatural elements were appropriate. For the drum parts, I aimed to use more analog sounding drums, adding lo-fi and saturation effects to make them sound distorted and robotic. I used digital sound effects and instruments such as the bleep and whistling pad to mimic sounds aboard a spacecraft. The use of reverb, delay and stereo-width were important to create a feeling of openness and space and to allow the many details to sit audibly in the track.
+
+(embed: https://soundcloud.com/kerstondj/horizon)
+
+_Technology used: Logic Pro 7, Ableton Live, Komplete Suit (Massive, Kontakt, Absynth, Reaktor), Korg Virtual Synthesizer, Sylenth1, Lexicon Reverb, Genelec Monitors, Roland Juno-G, Maschine_
+
+----
+
+Coverimage: mixer.jpg
+
+
+

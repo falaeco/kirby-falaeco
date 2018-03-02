@@ -60,6 +60,10 @@
     &--white{
       background-color: white;
     }
+    &--black{
+      background-color: $black;
+      color: $white;
+    }
   }
 
   &__bottom{

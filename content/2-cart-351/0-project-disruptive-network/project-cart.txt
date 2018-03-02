@@ -1,0 +1,21 @@
+Title: Disruptive Network
+
+----
+Text:
+
+The relation between a city government and its citizen is often thought as a broken one. It is often the case that a city government makes large expenditures on various projects while citizens believe that their government should address more critical issues. With the recent municipal election, newly elected mayor Valérie Plante pledge to listen more closely to the citizens' needs. “This election wasn’t about me; it was about what you want for Montreal,” Mrs. Plante claimed in her victory speech. From this idea, we thought that Montrealers should have a platform where they could express themselves and participate in the development of their city.
+
+## Meet the Project Montréal platform
+Projet Montréal is a web app where citizens of Montreal can submit their propositions for new projects, suggest ideas for improving the city and give their opinions on these proposals. The platform is quite simple and is made of two main sections: browsing and submitting. The browsing section features a map with each pinpoints being a proposal for either a new project for the city (blue) or an improvement to the existing infrastructure (yellow). Each proposal has their own page containing further details about the proposition and a discussion section in the form of comments. To submit a proposal, simply visit the submit section, pinpoint where precisely on the map is the subject of your proposal, fill in the form and send. The proposition will be saved on the server and will be part of the list of projects in the browse section. 
+
+## Developing the Website
+To develop the website, I wanted to test a different architecture using emerging web technologies. Instead of going for a traditional stack involving PHP and MySQL, I implemented the site using a MEN stack - MongoDB, Express and Node.  What I found the most appealing about this stack was the opportunity to increase my skills in JavaScript and use a language that has been traditionally exclusive to client-side scripting for server-side scripting.  Throughout this project, I have learned many concepts about web development: CRUD methods, REST architecture and HTTP requests, database and relation between collections among other things. I certainly enjoyed discovering node.js and the power of javascript doing this project, and I will look forward to learning more about this language.
+
+### A final thought
+Projet Montréal is an opportunity to raise awareness of the technological possibilities that exists to bridge the gap between citizen and local government and I hope that eventually such platform will encourage collaboration and increase citizen engagement in the metropole. 
+
+## (link: http://still-cove-59008.herokuapp.com/ text: Projet Montreal)
+
+----
+
+Coverimage: montreal-network.jpg
