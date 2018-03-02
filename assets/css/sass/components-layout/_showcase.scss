@@ -66,3 +66,21 @@
     font-size: .85em;
   }
 }
+
+.showcase-flex{
+
+  &__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  &__item{
+    padding: 30px;
+    align-self: center;
+  }
+
+  &__title{
+    text-align: end;
+  }
+}

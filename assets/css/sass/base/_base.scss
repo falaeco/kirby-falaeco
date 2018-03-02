@@ -50,6 +50,12 @@ html {
   -ms-text-size-adjust: 100%;
   /* Highlight color for WebKit-bases touch devices. */
   -webkit-tap-highlight-color: rgba(113, 239, 172, .5);
+
+}
+
+.black-theme{
+  background: $black;
+  color: $white;
 }
 
 @media all and (max-width: 30em) {

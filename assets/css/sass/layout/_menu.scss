@@ -15,6 +15,9 @@
     &.is-active a {
       border-bottom: 2px solid #F1D4F0;
     }
+    &--black{
+      background-color: $black;
+    }
   }
 }
 

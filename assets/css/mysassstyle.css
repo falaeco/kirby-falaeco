@@ -74,6 +74,10 @@ html {
   /* Highlight color for WebKit-bases touch devices. */
   -webkit-tap-highlight-color: rgba(113, 239, 172, 0.5); }
 
+.black-theme {
+  background: #020202;
+  color: #fffff8; }
+
 @media all and (max-width: 30em) {
   html {
     /* We decrease the font-size a little-bit for tiny
@@ -269,6 +273,9 @@ h1 + .intro {
 .text blockquote :last-child {
   margin-bottom: 0; }
 
+.video {
+  text-align: center; }
+
 .btn {
   display: inline-block;
   border: 2px solid;
@@ -430,8 +437,23 @@ h1 + .intro {
   .showcase__title {
     font-size: .85em; } }
 
+.showcase-flex__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; }
+
+.showcase-flex__item {
+  padding: 30px;
+  align-self: center; }
+
+.showcase-flex__title {
+  text-align: end; }
+
 .header {
-  padding-top: 1.5rem; }
+  height: 45vw;
+  min-height: 19rem;
+  padding-top: 1.5rem;
+  position: relative; }
 
 .branding {
   text-align: center;
@@ -449,7 +471,7 @@ h1 + .intro {
       background-color: #fffff8; }
     .branding__highlight--black {
       color: #fffff8;
-      background-color: #000; }
+      background-color: #020202; }
 
 @media all and (min-width: 38.25em) {
   .header {
@@ -477,6 +499,12 @@ h1 + .intro {
     -webkit-box-decoration-break: clone; }
     .page-title__highlight--white {
       background-color: white; }
+  .page-title__bottom {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    margin: 0; }
 
 .menu {
   font-family: "acumin-pro-extra-condensed", sans-serif;
@@ -493,6 +521,8 @@ h1 + .intro {
       border-bottom: 0; }
     .menu__item.is-active a {
       border-bottom: 2px solid #F1D4F0; }
+    .menu__item--black {
+      background-color: #020202; }
 
 @media all and (min-width: 38.25em) {
   .menu {

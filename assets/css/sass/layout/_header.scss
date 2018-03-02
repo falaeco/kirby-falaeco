@@ -1,5 +1,8 @@
 .header {
+  height: 45vw;
+  min-height: 19rem;
   padding-top: 1.5rem;
+  position: relative;
 }
 
 .branding {
@@ -57,5 +60,13 @@
     &--white{
       background-color: white;
     }
+  }
+
+  &__bottom{
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    margin: 0;
   }
 }

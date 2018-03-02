@@ -1,0 +1,42 @@
+Title: 60 minutes, 60 visages
+
+----
+
+Year: 2014
+
+----
+
+Text:
+_Collaborators: Guyllaume Demers, Francis Boutet, Pierre Olivier Paquet_
+
+
+In an episode of the CBC show "Les enfants de la télé," Raoul Duguay, a multi-vocational Quebec artist made a rather surprising statement on how we, as spectators, would be destabilized if someone on television unexpectedly stared at us for a whole minute in silence. This statement was then followed by Raoul actually doing what he just suggest. We were surprised by the effect of Raoul's gaze on us. Almost as if, in an odd way, the role of the actor and spectator were inverted and we became the subject of attention rather than the person on television. It was also interesting to feel the strange and momentary connection we had with the guess of the interview during that long minute of staring. From this peculiar experience, three of my audiovisual colleagues and I wanted to expand on this idea of breaking the fourth wall and filmed 60 different people each staring at the camera for one minute. 
+
+### Making of the film
+
+For an afternoon, we shot students, professors and volunteers in a minimal set-up using one of the studios we had at school.  We then tried to make a diverse selection of people in terms of age and ethnicity, with each stare feeling different from the others. Then, we made a sequence in a way that each stare would impact the viewer differently. 
+
+### The Film Cover
+
+My partner Pierre Oliver Paquet and I wanted to work on a cover for the film. Being inspired by Lapalux's Nostalchic album cover, we had the idea to take a slice of each minute of the film and create a collage that forms a single face using photoshop. In the context of this collaboration, Pierre Olivier did the first half while I did the second half. We agreed on a common model that would serve as guide to help us align the different faces. It is interesting to see how these 60 slices feel as they seem to merge to form a unified face but still appearing as individual pieces. 
+
+(image: lapalux-nostalchic.jpg alt: Lapalux Nostalchic)
+(image: movie_cover_fl.jpg alt: Movie cover full length)
+
+### Composing the soundtrack
+
+For the soundscape, Pierre Olivier Paquet and I arranged an array of different samples of soundscape and loops we had put together after doing some research separately. After populating individual tracks with our selection of samples, we played with the envelope parameter in the sampler and mixed the tracks to make each sound seamlessly transition between each other. We made some elements of the soundtrack intermittent by placing them randomly in the arrangement to bring some variation into the experience. The soundtrack brings in an eerie atmosphere that significantly contributes to the uncanny effect of the film.
+
+### Reception
+
+The film was selected to be part of the annual school's exhibition in April 2014. The general impression from the students was that the images were disconcerting but also intriguing. Most people expressed their amazement about how engaging the movie could be if you took the time to stop and try to connect with the staring face. Overall, this project caught the attention of many passers-by who appreciated the originality and the quirkiness of the movie.
+
+(youtube: https://youtu.be/aQ1DkYcedEA?t=15s width: 560 height: 315)
+
+_Technology used:_
+* _Software: Premiere Pro, Logic Pro 7, Photoshop_
+* _Hardware: Sony XDCAM_
+
+----
+
+Coverimage: movie_cover_large.jpg

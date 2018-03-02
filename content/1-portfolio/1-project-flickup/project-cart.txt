@@ -1,0 +1,26 @@
+Title: Flick Up
+
+----
+
+Year: 2016
+
+----
+
+Text:
+
+# Flick Up
+Technology used: Illustrator, After Effects, JavaScript
+Flick Up is a sport toy product developed by a Manchester based social entrepreneur company *A Little Idea* that aims to raise awareness of discrimination in the context of sports whilst raising sums for various charities. Flick Up, as a symbol, can be compared to the iconic Poppy for Remembrance Day or the Red Nose associated with Comic Relief. However, Flick Up as product is intended to enable consumers, players and all strata of society to become the agents of a hopeful cultural movement. 
+For this project, I was in charge of developing a logo and a presentation video of the toy. Similar to a Jianzi (or chinese hacky sack), the toy features a trapezoidal base made of rubber with several colourful feathers fixed to the base. The presentation video was to be shown to various charity organizations in the UK.  It was a great occasion to test what I learned in my graphic design foundation courses and to perfect my skills in drawing and using vector-graphic software.
+
+## Phase 1 Logo 
+One of the most important aspects of the logo is that it should be symbolic whilst not being too far from the toy being marketed. For this purpose, I used the symbol of a flame as the main direction for the logo design. The curvy shape of the flame is reminiscent of the curves of the toy's feathers. The flame is a recurrent symbol in the field of sports and is often associated with good spirit and determination. Therefore, it seems only natural to have the symbolic aspect of the logo around the idea of the flame. 
+For the colours, I went with a colourful palette to depict the variety of people that make our society. Even though it is unusual to have more than 4 colours in a logo, having a rich colour palette that is seemingly unified is a good reflection of what the company is trying to achieve with the toy: uniting people despite their differences in sports. With that in mind I included one last example for the client, which is more oriented towards the idea of unity through colours and looks much closer to the physical toy.
+
+## Phase 2 Video
+To create the video, the director provided me with a script with the main points that would be discussed in the presentation. From this script, I created different scenes with several shapes and illustrations which I animated in After Effects. These scenes represent the key concepts of what the toy is supposed to symbolize and also what the company is trying to achieve with this project. The result is an animated slideshow which accompanied the introductory pitch of the product.
+To add realism and make the animations smoother, I added overshoot and bounce effects to the moving elements in my compositions using JavaScript expression in After Effect. Since I made this project prior to my studies in computer science, learning about JavaScript expression was a good way to get acquainted with most of the fundamentals of programming, such as variable assignment, control flow and loops for the purpose of adding physical realism to my animation.
+
+----
+
+Coverimage: banner.jpg
